@@ -1,0 +1,7 @@
+{
+  "preset": "crockford",
+  "requireSemicolons": true,
+  "disallowDanglingUnderscores": false,
+  "disallowTrailingWhitespace": false,
+  "validateIndentation": 2
+}

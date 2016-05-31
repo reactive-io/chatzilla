@@ -1,0 +1,10 @@
+<h1>
+  <span>Howdy</span>
+  <span><%= @name %></span>
+</h1>
+
+<script type="text/javascript">
+  window.userToken = "<%= @name %>";
+</script>
+
+<div id="react-app"></div>
